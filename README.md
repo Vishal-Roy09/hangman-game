@@ -19,7 +19,7 @@ This is a simple command-line Hangman game implemented in C++.
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/hangman-cpp.git
+   git clone https://github.com/your-Vishal-Roy0/hangman-cpp.git
    ```
 2. Navigate to the project folder:
    ```bash
